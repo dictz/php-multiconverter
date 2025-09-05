@@ -1,4 +1,4 @@
-MultiConverter X (MCX), версия 12. Лицензия: MIT
+MultiConverterX (MCX), версия 15. Лицензия: MIT
 -------------------------------------------------------------
 Функции мультиконвертера:
 • Преобразует файлы словарей загруженные с https://bkrs.info/p47 в форматы: DSL, StarDict, MDict, HTML.
@@ -26,6 +26,21 @@ MultiConverter X (MCX), версия 12. Лицензия: MIT
 Ссылки связанные с проектом:
 • https://bkrs.info/taolun/thread-340497.html
 • https://github.com/dictz
+• https://max.ru/join/hSFZHRR-UdkBnlsmtPdNfZsLXj9rRoAY9aZsK1R8exk
+• Примеры результатов конвертации: https://max.ru/join/cEt06A6ZIKKnCtLIgNVZS4-KdWr8n5B8zeUJrqLDSJs
+
+О форматах и чем открыть:
+• DSL:
+  • http://lingvo.helpmax.net/ru/вопросы-и-затруднения/dsl-compiler/компиляция-словаря/
+  • https://ru.wikipedia.org/wiki/GoldenDict
+• MDict:
+  • https://www.mdict.cn
+  • https://zh.wikipedia.org/zh-cn/MDict
+• StarDict:
+  • https://ru.wikipedia.org/wiki/StarDict
+  • https://ru.wikipedia.org/wiki/GoldenDict
+• HTML, Dictionary Shell X (DSX, dsx.html) :
+  • Открыть можно многими браузерами использующими проект «Chromium»: Samsung Internet, Google Chrome, Microsoft Edge и другими.
 
 Использованные ресурсы:
 • dsx/format_doc/
