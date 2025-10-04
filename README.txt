@@ -1,4 +1,4 @@
-MultiConverterX (MCX), версия 15. Лицензия: MIT
+MultiConverterX (MCX), версия 16. Лицензия: MIT
 -------------------------------------------------------------
 Функции мультиконвертера:
 • Преобразует файлы словарей загруженные с https://bkrs.info/p47 в форматы: DSL, StarDict, MDict, HTML.
@@ -19,14 +19,14 @@ MultiConverterX (MCX), версия 15. Лицензия: MIT
 • Нажмите «Конвертировать». Конвертация может длиться долго, узнайте подробнее нажав кнопку « i ».
 
 -------------------------------------------------------------
-Инструменты dsx/tools/:
-• dictz.html - инструмент для dictzip сжатия файлов словарей.
-• font_inspect.html - инструмент для просмотра глифов и их кодов в файлах ttf.
+dsx/html_tools/:
+• cc-cedict_converter.html - Конвертация CC-CEDICT в форматы StarDict и MDict.
+• dictz.html               - DictZip сжатие файлов словарей.
+• font_inspect.html        - Просмотр глифов и их кодов в файлах ttf.
 
 Ссылки связанные с проектом:
 • https://bkrs.info/taolun/thread-340497.html
 • https://github.com/dictz
-• https://max.ru/join/hSFZHRR-UdkBnlsmtPdNfZsLXj9rRoAY9aZsK1R8exk
 • Примеры результатов конвертации: https://max.ru/join/cEt06A6ZIKKnCtLIgNVZS4-KdWr8n5B8zeUJrqLDSJs
 
 О форматах и чем открыть:
@@ -52,10 +52,6 @@ MultiConverterX (MCX), версия 15. Лицензия: MIT
 • https://github.com/mdsills/cccedict
 • https://github.com/nodeca/pako
 • https://github.com/hlorenzi/font-js
-• https://www.php.net/
-• https://developer.mozilla.org/
-• https://learn.javascript.ru/
-• https://convertio.co/
 
 Благодарность:
 • Использованным ресурсам
