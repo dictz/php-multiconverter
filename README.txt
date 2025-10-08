@@ -1,4 +1,4 @@
-MultiConverterX (MCX), версия 16. Лицензия: MIT
+MultiConverterX (MCX), версия 17. Лицензия: MIT
 -------------------------------------------------------------
 Функции мультиконвертера:
 • Преобразует файлы словарей загруженные с https://bkrs.info/p47 в форматы: DSL, StarDict, MDict, HTML.
@@ -21,6 +21,7 @@ MultiConverterX (MCX), версия 16. Лицензия: MIT
 -------------------------------------------------------------
 dsx/html_tools/:
 • cc-cedict_converter.html - Конвертация CC-CEDICT в форматы StarDict и MDict.
+• bkrs_converter.html      - Конвертация словарей загруженных с https://bkrs.info/p47 в форматы StarDict и MDict.
 • dictz.html               - DictZip сжатие файлов словарей.
 • font_inspect.html        - Просмотр глифов и их кодов в файлах ttf.
 
