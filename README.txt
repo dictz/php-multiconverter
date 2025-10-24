@@ -1,4 +1,4 @@
-MultiConverterX (MCX), v18. Лицензия MIT
+🛸{"MultiConverterX (MCX)":"version 18", "License":"MIT"}
 https://github.com/dictz
 https://bkrs.info/taolun/thread-340497.html
 
@@ -21,15 +21,20 @@ https://bkrs.info/taolun/thread-340497.html
 • Конвертация может длиться долго, узнайте подробнее нажав кнопку « i ».
 
 
-HTML конвертеры, dsx/html_tools/:
-• cc-cedict_converter.html - Конвертация CC-CEDICT (https://www.mdbg.net) в форматы StarDict и MDict.
-                             https://bkrs.info/taolun/thread-343071.html
-• bkrs_converter.html      - Конвертация словарей загруженных с https://bkrs.info/p47 (внизу страницы «Словарные базы за сегодня») в форматы StarDict и MDict.
-                             https://bkrs.info/taolun/thread-343086.html
-• dsl_converter.html       - Конвертация словарей в формате DSL в форматы StarDict и MDict.
-                             https://bkrs.info/taolun/thread-343200.html
-• dictz.html               - DictZip сжатие файлов (GZip сжатие для произвольного чтения, соответствует стандарту RFC 1952. https://sourceforge.net/projects/dict/, http://www.dict.org)
-                             https://bkrs.info/taolun/thread-124987-post-896709.html#pid896709
+HTML конвертеры (dsx/html_tools/)
+• cc-cedict_converter.html v2
+  Конвертация CC-CEDICT (https://www.mdbg.net) в форматы StarDict и MDict.
+  https://bkrs.info/taolun/thread-343071.html
+• bkrs_converter.html v2
+  Конвертация словарей загруженных с https://bkrs.info/p47 (внизу страницы «Словарные базы за сегодня») в форматы StarDict и MDict.
+  https://bkrs.info/taolun/thread-343086.html
+• dsl_converter.html v2
+  Конвертация словарей в формате DSL в форматы StarDict и MDict.
+  https://bkrs.info/taolun/thread-343200.html
+• dictz.html v2
+  DictZip сжатие файлов (GZip сжатие для произвольного чтения, соответствует стандарту RFC 1952. https://sourceforge.net/projects/dict/, http://www.dict.org)
+  https://bkrs.info/taolun/thread-124987-post-896709.html#pid896709
+
 
 О форматах
 • DSL:
