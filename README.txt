@@ -1,4 +1,4 @@
-🛸{"MultiConverterX (MCX)":"version 18", "License":"MIT"}
+🛸{"MultiConverterX (MCX)":"№19", "License":"MIT"}
 https://github.com/dictz
 https://bkrs.info/taolun/thread-340497.html
 
@@ -22,13 +22,13 @@ https://bkrs.info/taolun/thread-340497.html
 
 
 HTML конвертеры (dsx/html_tools/)
-• cc-cedict_converter.html v2
+• cc-cedict_converter.html v3
   Конвертация CC-CEDICT (https://www.mdbg.net) в форматы StarDict и MDict.
   https://bkrs.info/taolun/thread-343071.html
-• bkrs_converter.html v2
+• bkrs_converter.html v3
   Конвертация словарей загруженных с https://bkrs.info/p47 (внизу страницы «Словарные базы за сегодня») в форматы StarDict и MDict.
   https://bkrs.info/taolun/thread-343086.html
-• dsl_converter.html v2
+• dsl_converter.html v3
   Конвертация словарей в формате DSL в форматы StarDict и MDict.
   https://bkrs.info/taolun/thread-343200.html
 • dictz.html v2
